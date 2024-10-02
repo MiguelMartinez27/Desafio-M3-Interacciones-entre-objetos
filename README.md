@@ -69,5 +69,5 @@ Ejecutar el archivo programa.py para iniciar la aplicación. Sigue las instrucci
 
 - seguir instrucciones
 
-##Autor
+## Autor
 Miguel Martínez Fuenzalida
